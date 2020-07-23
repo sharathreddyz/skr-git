@@ -1,2 +1,2 @@
 # skr-git
-This for learning
+This is for learning
